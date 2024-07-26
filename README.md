@@ -45,11 +45,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Samaykhandelwal03/portfolio-website.git
+   git clone https://samaykhandelwal03.github.io/portfolio/
 
 ## CONTACT
 
 To contact Samay ,
     Email : Samaykhandelwal03@gmail.com
-    LinkedIn : 
-    GitHub : 
+    LinkedIn : https://www.linkedin.com/in/samay-khandelwal-9a3a17223
+    GitHub : https://github.com/samaykhandelwal03
